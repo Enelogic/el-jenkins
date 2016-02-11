@@ -1,3 +1,0 @@
-github-oauth:0.22.2
-ansible:0.4
-chucknorris:1.0
